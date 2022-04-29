@@ -1,3 +1,3 @@
-# shell
+# dev-conf
 
-Save My Shell Config.
+Save My Development Environement Config.
